@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24.071 17.021">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-6 {
+        fill: none;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #0088e2;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-6 {
+        stroke: #0088e2;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_1333" data-name="Path 1333" class="cls-1" d="M0-5.352H17.034V11.669H0Z" transform="translate(0 5.352)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_1336" data-name="Path 1336" class="cls-2" d="M0-5.108H10.071V0H0Z"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1555" data-name="Group 1555" transform="translate(-50 -898.352)">
+    <g id="Group_1550" data-name="Group 1550" class="cls-3" transform="translate(50 898.352)">
+      <g id="Group_1549" data-name="Group 1549" transform="translate(-0.001 -0.001)">
+        <path id="Path_1332" data-name="Path 1332" class="cls-4" d="M3.245,4.551s2.1-1.355,2.1-2.1c0-1.6-2.942-4.7-4.535-4.535A3.045,3.045,0,0,0-.74-1.1,2.339,2.339,0,0,0-1.465.187s-.69,3.225,5.413,9.331c5.753,5.753,9.331,5.41,9.331,5.41s.337.13,1.3-.836c.83-.827.964-1.03.964-1.431,0-1.6-2.932-4.535-4.538-4.535-.754,0-2.134,2.134-2.134,2.134A9.643,9.643,0,0,1,5.6,7.8a9.46,9.46,0,0,1-2.357-3.25" transform="translate(1.488 2.087)"/>
+      </g>
+    </g>
+    <g id="Group_1554" data-name="Group 1554" transform="translate(64 906.217)">
+      <g id="Group_1553" data-name="Group 1553" class="cls-5">
+        <g id="Group_1551" data-name="Group 1551" transform="translate(0 -2.5)">
+          <path id="Path_1334" data-name="Path 1334" class="cls-6" d="M0,0,9.275-.008"/>
+        </g>
+        <g id="Group_1552" data-name="Group 1552" transform="translate(6.585 -4.722)">
+          <path id="Path_1335" data-name="Path 1335" class="cls-6" d="M0,0,2.691,2.215.025,4.331"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
