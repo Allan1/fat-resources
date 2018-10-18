@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.638 23.577">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_1604" data-name="Group 1604" transform="translate(-1189 -518.871)">
+    <path id="Union_88" data-name="Union 88" class="cls-1" d="M8.188-3658.251a1.994,1.994,0,0,1-.344.03H2a2,2,0,0,1-2-2v-10.767a2,2,0,0,1,2-2H7.833l9.1-5.013v23.577Z" transform="translate(1189 4196.871)"/>
+    <path id="Path_2062" data-name="Path 2062" class="cls-2" d="M4.186,4.3s3.453.342,3.453,6.992-3.453,6.682-3.453,6.682" transform="translate(1207.5 519.195)"/>
+    <path id="Path_2063" data-name="Path 2063" class="cls-2" d="M4.186,4.3s1.726.171,1.726,3.5-1.726,3.341-1.726,3.341" transform="translate(1205.226 523.195)"/>
+  </g>
+</svg>
