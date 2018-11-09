@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 25px;
+        font-family: Futura-Medium, Futura;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <text id="_-_" data-name="-$" class="cls-1" transform="translate(0 26)"><tspan x="0" y="0">-$</tspan></text>
+</svg>
