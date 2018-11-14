@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.593 31.287">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fd6868;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fd6868;
+        font-size: 21px;
+        font-family: Futura-Medium, Futura;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <g id="Group_1975" data-name="Group 1975" transform="translate(-146.589 -2940.713)">
+    <path id="Path_2282" data-name="Path 2282" class="cls-1" d="M5774.19,6627.2l-13.377,27.139h26.4Z" transform="translate(-5612.616 -3684.199)"/>
+    <text id="_" data-name="!" class="cls-2" transform="translate(158 2967)"><tspan x="0" y="0">!</tspan></text>
+  </g>
+</svg>
