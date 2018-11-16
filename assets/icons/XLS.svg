@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 35.656 40.696">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #f6822a;
+      }
+
+      .cls-3 {
+        stroke: #006cb3;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        fill: #006cb3;
+        font-size: 12px;
+        font-family: Futura-Medium, Futura;
+        font-weight: 500;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_2157" data-name="Path 2157" class="cls-1" d="M0-28H35.656V12.7H0Z" transform="translate(0 28)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2009" data-name="Group 2009" transform="translate(-1198.521 -1687.367)">
+    <g id="Group_1779" data-name="Group 1779" transform="translate(1223.718 1690.739)">
+      <path id="Path_2165" data-name="Path 2165" class="cls-2" d="M1.6,1.337H-4V-4Z" transform="translate(4 4)"/>
+    </g>
+    <g id="Group_2008" data-name="Group 2008">
+      <g id="Group_1780" data-name="Group 1780" transform="translate(1228.28 1696.076)">
+        <path id="Path_2166" data-name="Path 2166" class="cls-3" d="M0,13.594V-12" transform="translate(0 12)"/>
+      </g>
+      <g id="Group_2007" data-name="Group 2007">
+        <g id="Group_1771" data-name="Group 1771" class="cls-4" transform="translate(1198.521 1687.367)">
+          <g id="Group_1768" data-name="Group 1768" transform="translate(4.993 4.364)">
+            <path id="Path_2154" data-name="Path 2154" class="cls-3" d="M5.767,5.67v4.344H-19V-23.5H1.2" transform="translate(19 23.5)"/>
+          </g>
+          <g id="Group_1769" data-name="Group 1769" transform="translate(1.734 4.364)">
+            <path id="Path_2155" data-name="Path 2155" class="cls-3" d="M5.464,0H-18" transform="translate(18)"/>
+          </g>
+          <g id="Group_1770" data-name="Group 1770" transform="translate(8.251 37.879)">
+            <path id="Path_2156" data-name="Path 2156" class="cls-3" d="M5.767,0H-19" transform="translate(19)"/>
+          </g>
+        </g>
+        <text id="XLS" class="cls-5" transform="translate(1206 1713)"><tspan x="0" y="0">XLS</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
