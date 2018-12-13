@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 14.229 15.981">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3, .cls-5 {
+        stroke: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-4, .cls-6 {
+        stroke: #f6822a;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_2357" data-name="Path 2357" class="cls-1" d="M0-14.9H5.952v6.264H0Z" transform="translate(0 14.9)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2187" data-name="Group 2187" transform="translate(-26.233 -246.539)">
+    <g id="Group_2099" data-name="Group 2099" transform="translate(35.783 270.373)">
+      <g id="Group_2098" data-name="Group 2098" class="cls-2" transform="translate(-1.273 -16.373)">
+        <g id="Group_2095" data-name="Group 2095" transform="translate(1.122 1.281)">
+          <path id="Path_2354" data-name="Path 2354" class="cls-3" d="M-10.443-5.222A1.825,1.825,0,0,1-12.268-3.4a1.825,1.825,0,0,1-1.825-1.825,1.825,1.825,0,0,1,1.825-1.825A1.825,1.825,0,0,1-10.443-5.222Z" transform="translate(14.093 7.047)"/>
+        </g>
+        <g id="Group_2096" data-name="Group 2096" transform="translate(2.845 2.392)">
+          <path id="Path_2355" data-name="Path 2355" class="cls-4" d="M0,0V1.295"/>
+        </g>
+        <g id="Group_2097" data-name="Group 2097" transform="translate(2.716 3.558)">
+          <path id="Path_2356" data-name="Path 2356" class="cls-4" d="M-2.223,0H-3" transform="translate(3)"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_2358" data-name="Path 2358" class="cls-5" d="M7490.486-3080.932v-5.794h-10.753v14.981h10.753v-1.395" transform="translate(-7453 3333.765)"/>
+    <path id="Path_2359" data-name="Path 2359" class="cls-6" d="M7481.965-3083.493h7.429" transform="translate(-7453.34 3334)"/>
+    <path id="Path_2360" data-name="Path 2360" class="cls-6" d="M7481.965-3083.493h7.429" transform="translate(-7453.34 3336)"/>
+    <path id="Path_2361" data-name="Path 2361" class="cls-6" d="M7481.965-3083.493h7.429" transform="translate(-7453.34 3338)"/>
+    <path id="Path_2363" data-name="Path 2363" class="cls-6" d="M7481.965-3083.493h5.006" transform="translate(-7453.34 3340)"/>
+  </g>
+</svg>
