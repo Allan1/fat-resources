@@ -1,0 +1,28 @@
+<svg id="Group_2367" data-name="Group 2367" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 13.603 14.141">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        stroke: #fff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_2462" data-name="Path 2462" class="cls-1" d="M0-74.993H13.6v14.141H0Z" transform="translate(0 74.993)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2366" data-name="Group 2366" class="cls-2" transform="translate(0 0)">
+    <g id="Group_2364" data-name="Group 2364" transform="translate(0.777 1.634)">
+      <path id="Path_2460" data-name="Path 2460" class="cls-3" d="M0-60.07s1.654.272,2.7-2.446c.729-1.893,1.28-8.229,2.44-8.23,1.226,0,1.422,6.272,2.4,8.625A2.924,2.924,0,0,0,10.294-60" transform="translate(0 70.746)"/>
+    </g>
+    <g id="Group_2365" data-name="Group 2365" transform="translate(2.348 1.634)">
+      <path id="Path_2461" data-name="Path 2461" class="cls-3" d="M0-60.07s1.654.272,2.7-2.446c.729-1.893,1.28-8.229,2.44-8.23,1.226,0,1.422,6.272,2.4,8.625A2.924,2.924,0,0,0,10.294-60" transform="translate(0 70.746)"/>
+    </g>
+  </g>
+</svg>
