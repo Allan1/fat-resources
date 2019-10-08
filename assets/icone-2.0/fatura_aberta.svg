@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.31" height="18.011" viewBox="0 0 14.31 18.011">
+  <g id="fatura_aberta" transform="translate(-6.205 -22.429)">
+    <g id="Grupo_2680" data-name="Grupo 2680" transform="translate(8.77 32.46)">
+      <path id="Subtração_6" data-name="Subtração 6" d="M11.152,7.981H.592A.593.593,0,0,1,0,7.388V.574A.588.588,0,0,1,.421.006h10.9V0a.588.588,0,0,1,.421.568V7.388A.593.593,0,0,1,11.152,7.981ZM1.185,1.16V6.79h9.381V1.16Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+    <g id="user-14" transform="translate(16.397 22.429)">
+      <g id="Grupo_2678" data-name="Grupo 2678" transform="translate(0)">
+        <path id="Caminho_2718" data-name="Caminho 2718" d="M201.993,328.2a.427.427,0,0,0-.429.428v.563h-.048a1.467,1.467,0,1,0,0,2.935h.952a.61.61,0,1,1,0,1.221h-1.705a.429.429,0,0,0,0,.857h.8v.576a.429.429,0,1,0,.857,0V334.2h.048a1.467,1.467,0,1,0,0-2.935h-.952a.61.61,0,0,1,0-1.221h1.675a.429.429,0,1,0,0-.857h-.77v-.563A.427.427,0,0,0,201.993,328.2Z" transform="translate(-200.05 -328.2)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Subtração_7" data-name="Subtração 7" d="M7.868,6.984H6.69V3.937a2.752,2.752,0,0,0-5.5,0h.006v2.08H0V3.937a3.936,3.936,0,0,1,6.723-2.78A3.89,3.89,0,0,1,7.868,3.931V6.983Z" transform="translate(6.205 25.72)" fill="#fff"/>
+  </g>
+</svg>
